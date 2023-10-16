@@ -10,6 +10,8 @@ sites:
     url: https://gallery.youngmin.kr/
   - name: go.youngmin.kr
     url: https://go.youngmin.kr/
+  - name: share.youngmin.kr
+    url: https://share.youngmin.kr/
    
 status-website:
   cname: status.youngmin.kr
