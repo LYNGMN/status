@@ -18,7 +18,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: Post
+    - title: Update
       href: https://go.youngmin.kr/update
     - title: Community
       href: https://go.youngmin.kr/community
