@@ -4,9 +4,13 @@ repo: status
 sites:
   - name: update.youngmin.kr
     url: https://update.youngmin.kr/
+  - name: brand.youngmin.kr
+    url: https://brand.youngmin.kr/
+  - name: gallery.youngmin.kr
+    url: https://gallery.youngmin.kr/
   - name: go.youngmin.kr
     url: https://go.youngmin.kr/
-    
+   
 status-website:
   cname: status.youngmin.kr
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
