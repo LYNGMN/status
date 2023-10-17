@@ -58,35 +58,39 @@
     "url": "https://go.youngmin.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/go.youngmin.kr.ico",
     "slug": "go-youngmin-kr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 594,
-    "timeDay": 594,
-    "timeWeek": 594,
-    "timeMonth": 594,
-    "timeYear": 594,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 526,
+    "timeDay": 526,
+    "timeWeek": 526,
+    "timeMonth": 526,
+    "timeYear": 526,
+    "dailyMinutesDown": {
+      "2023-10-17": 0
+    }
   },
   {
     "name": "share.youngmin.kr",
     "url": "https://share.youngmin.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/share.youngmin.kr.ico",
     "slug": "share-youngmin-kr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 539,
-    "timeDay": 539,
-    "timeWeek": 539,
-    "timeMonth": 539,
-    "timeYear": 539,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 440,
+    "timeDay": 440,
+    "timeWeek": 440,
+    "timeMonth": 440,
+    "timeYear": 440,
+    "dailyMinutesDown": {
+      "2023-10-17": 0
+    }
   }
 ]
