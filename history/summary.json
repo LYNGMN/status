@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/share.youngmin.kr.ico",
     "slug": "share-youngmin-kr",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 416,
     "timeDay": 402,
     "timeWeek": 455,
     "timeMonth": 416,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2023-10-29": 0
+      "2023-10-29": 16
     }
   }
 ]
