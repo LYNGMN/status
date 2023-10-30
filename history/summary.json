@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1068,
-    "timeDay": 907,
-    "timeWeek": 1179,
-    "timeMonth": 1068,
-    "timeYear": 1068,
+    "time": 1126,
+    "timeDay": 2054,
+    "timeWeek": 1205,
+    "timeMonth": 1126,
+    "timeYear": 1126,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 246,
-    "timeWeek": 189,
-    "timeMonth": 184,
-    "timeYear": 184,
+    "time": 180,
+    "timeDay": 121,
+    "timeWeek": 184,
+    "timeMonth": 180,
+    "timeYear": 180,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 229,
-    "timeWeek": 249,
-    "timeMonth": 247,
-    "timeYear": 247,
+    "time": 246,
+    "timeDay": 235,
+    "timeWeek": 247,
+    "timeMonth": 246,
+    "timeYear": 246,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 730,
-    "timeWeek": 444,
-    "timeMonth": 409,
-    "timeYear": 409,
+    "time": 400,
+    "timeDay": 244,
+    "timeWeek": 430,
+    "timeMonth": 400,
+    "timeYear": 400,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/share.youngmin.kr.ico",
     "slug": "share-youngmin-kr",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 416,
-    "timeDay": 402,
-    "timeWeek": 455,
-    "timeMonth": 416,
-    "timeYear": 416,
+    "uptime": "92.57%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.59%",
+    "uptimeMonth": "92.57%",
+    "uptimeYear": "92.57%",
+    "time": 415,
+    "timeDay": 408,
+    "timeWeek": 417,
+    "timeMonth": 415,
+    "timeYear": 415,
     "dailyMinutesDown": {
-      "2023-10-29": 16
+      "2023-10-30": 68,
+      "2023-10-29": 1384
     }
   }
 ]
