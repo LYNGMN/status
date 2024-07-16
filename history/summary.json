@@ -4,18 +4,20 @@
     "url": "https://update.youngmin.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/update.youngmin.kr.ico",
     "slug": "update-youngmin-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1023,
-    "timeDay": 2812,
-    "timeWeek": 1110,
-    "timeMonth": 996,
-    "timeYear": 1023,
-    "dailyMinutesDown": {}
+    "time": 1027,
+    "timeDay": 2404,
+    "timeWeek": 1220,
+    "timeMonth": 1028,
+    "timeYear": 1027,
+    "dailyMinutesDown": {
+      "2024-07-16": 0
+    }
   },
   {
     "name": "brand.youngmin.kr",
