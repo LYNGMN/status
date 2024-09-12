@@ -6,18 +6,16 @@
     "slug": "update-youngmin-kr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1023,
     "timeDay": 1214,
     "timeWeek": 1118,
     "timeMonth": 1037,
     "timeYear": 1023,
-    "dailyMinutesDown": {
-      "2024-09-11": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "brand.youngmin.kr",
