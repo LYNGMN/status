@@ -1,7 +1,7 @@
 url: https://share.youngmin.kr/
-status: up
-code: 200
-responseTime: 1288
-lastUpdated: 2025-04-01T23:07:07.499Z
+status: down
+code: 429
+responseTime: 182
+lastUpdated: 2025-04-02T01:48:41.217Z
 startTime: 2023-10-16T11:12:07.269Z
 generator: Upptime <https://github.com/upptime/upptime>
