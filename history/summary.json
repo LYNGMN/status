@@ -61,9 +61,9 @@
     "url": "https://go.youngmin.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/go.youngmin.kr.ico",
     "slug": "go-youngmin-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -73,6 +73,7 @@
     "timeMonth": 473,
     "timeYear": 582,
     "dailyMinutesDown": {
+      "2025-08-05": 0,
       "2025-04-02": 67,
       "2024-10-22": 21
     }
@@ -82,9 +83,9 @@
     "url": "https://share.youngmin.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/share.youngmin.kr.ico",
     "slug": "share-youngmin-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -94,6 +95,7 @@
     "timeMonth": 400,
     "timeYear": 540,
     "dailyMinutesDown": {
+      "2025-08-05": 0,
       "2025-04-02": 67,
       "2024-10-22": 20
     }
