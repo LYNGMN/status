@@ -1,7 +1,7 @@
 url: https://update.youngmin.kr/
-status: up
-code: 200
-responseTime: 621
-lastUpdated: 2025-11-11T23:00:29.925Z
+status: down
+code: 500
+responseTime: 928
+lastUpdated: 2025-11-12T12:49:01.905Z
 startTime: 2023-10-16T07:54:52.968Z
 generator: Upptime <https://github.com/upptime/upptime>
