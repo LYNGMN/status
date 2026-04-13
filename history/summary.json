@@ -27,19 +27,19 @@
     "url": "https://brand.youngmin.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/brand.youngmin.kr.ico",
     "slug": "brand-youngmin-kr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "91.26%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.98%",
     "time": 314,
-    "timeDay": 198,
+    "timeDay": 223,
     "timeWeek": 267,
-    "timeMonth": 306,
+    "timeMonth": 305,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2026-04-13": 0
+      "2026-04-13": 126
     }
   },
   {
